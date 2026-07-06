@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-2e1979f5.zappy5.app
+https://example.com
 מחפשים שטיפת רכב מקצועית עם ציוד מתקדם? אנחנו מתמחים בניקיון חיצוני יסודי, הברקת ג&#39;אנטים וטיפוח הרכב. בואו להתאהב מחדש במכונית שלכם ולהזמין תור עוד היום!
 
 ### שירותים
-https://-2e1979f5.zappy5.app/services
+https://example.com/services
 משירות שטיפה חיצונית ועד לניקוי ג&#39;אנטים מעמיק – אנחנו מביאים לכם את הליטוש המושלם לרכב. גלו את מגוון השירותים שלנו שיחזירו לרכב את הזוהר שאבד. כנסו עכשיו!
 
 ### אודות
-https://-2e1979f5.zappy5.app/about
+https://example.com/about
 ליהוא ויובל, שני חברים עם תשוקה אמיתית לניקיון רכב וציוד detailing מתקדם. אנחנו דואגים שכל מכונית תצא מבריקה ומטופחת. בואו לקרוא את הסיפור שלנו ולהרגיש את ההבדל!
 
 ### צור קשר
-https://-2e1979f5.zappy5.app/contact
+https://example.com/contact
 מוכנים להחזיר לרכב את המראה המלוטש? צרו איתנו קשר בקלות לתיאום שטיפה, ניקוי ג&#39;אנטים או כל שאלה. אנחנו זמינים להפוך את הנסיעה שלכם לחוויה מבריקה. השאירו פרטים עכשיו!
 
 ### תודה שפניתם אלינו
-https://-2e1979f5.zappy5.app/thank-you
+https://example.com/thank-you
 ליהוא ויובל שוטפים מכוניות ופחים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-2e1979f5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-2e1979f5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-2e1979f5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-2e1979f5.zappy5.app/contact
-- Endpoint: https://-2e1979f5.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Car Wash & Auto Detailing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-2e1979f5.zappy5.app/sitemap.xml
-- Robots: https://-2e1979f5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-2e1979f5.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
