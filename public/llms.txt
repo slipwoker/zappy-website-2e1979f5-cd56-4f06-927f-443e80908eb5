@@ -1,0 +1,84 @@
+# ליהוא ויובל שוטפים מכוניות ופחים — Generative Engine Optimization Map
+
+> A car wash and rim/wheel cleaning business offering vehicle exterior cleaning services, including specialized wheel and rim washing. The business focuses on keeping vehicles clean and well-maintained.
+
+---
+
+## Pages
+
+### בית
+https://-2e1979f5.zappy5.app
+מחפשים שטיפת רכב מקצועית עם ציוד מתקדם? אנחנו מתמחים בניקיון חיצוני יסודי, הברקת ג&#39;אנטים וטיפוח הרכב. בואו להתאהב מחדש במכונית שלכם ולהזמין תור עוד היום!
+
+### שירותים
+https://-2e1979f5.zappy5.app/services
+משירות שטיפה חיצונית ועד לניקוי ג&#39;אנטים מעמיק – אנחנו מביאים לכם את הליטוש המושלם לרכב. גלו את מגוון השירותים שלנו שיחזירו לרכב את הזוהר שאבד. כנסו עכשיו!
+
+### אודות
+https://-2e1979f5.zappy5.app/about
+ליהוא ויובל, שני חברים עם תשוקה אמיתית לניקיון רכב וציוד detailing מתקדם. אנחנו דואגים שכל מכונית תצא מבריקה ומטופחת. בואו לקרוא את הסיפור שלנו ולהרגיש את ההבדל!
+
+### צור קשר
+https://-2e1979f5.zappy5.app/contact
+מוכנים להחזיר לרכב את המראה המלוטש? צרו איתנו קשר בקלות לתיאום שטיפה, ניקוי ג&#39;אנטים או כל שאלה. אנחנו זמינים להפוך את הנסיעה שלכם לחוויה מבריקה. השאירו פרטים עכשיו!
+
+### תודה שפניתם אלינו
+https://-2e1979f5.zappy5.app/thank-you
+ליהוא ויובל שוטפים מכוניות ופחים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2e1979f5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2e1979f5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2e1979f5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-2e1979f5.zappy5.app/contact
+- Endpoint: https://-2e1979f5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ליהוא ויובל שוטפים מכוניות ופחים
+A car wash and rim/wheel cleaning business offering vehicle exterior cleaning services, including specialized wheel and rim washing. The business focuses on keeping vehicles clean and well-maintained.
+
+## Services/Products
+- שטיפת מכוניות
+- שטיפת פחים
+
+## Target Audience
+- כולם
+
+## Industry
+Car Wash & Auto Detailing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2e1979f5.zappy5.app/sitemap.xml
+- Robots: https://-2e1979f5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2e1979f5.zappy5.app/llms-full.txt
